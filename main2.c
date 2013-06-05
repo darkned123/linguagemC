@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
   printf("String um %s\n",string_um);
     printf("String dois %s\n",string_dois);
   printf("\n");
+  printf("massa!\n");
   system("PAUSE");	
   return 0;
 }
